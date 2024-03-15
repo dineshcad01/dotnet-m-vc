@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVC sharp2.props" />
+</Project>
