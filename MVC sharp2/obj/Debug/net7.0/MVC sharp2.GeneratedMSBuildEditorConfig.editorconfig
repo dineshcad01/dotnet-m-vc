@@ -9,41 +9,81 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC_sharp2
 build_property.RootNamespace = MVC_sharp2
-build_property.ProjectDir = C:\Users\Dineshcad01\Desktop\CADBATCH\Project\MVC sharp2\
+build_property.ProjectDir = C:\Users\Dineshcad01\Desktop\CADBATCH\Project\dotnet-m-vc\MVC sharp2\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\Dineshcad01\Desktop\CADBATCH\Project\MVC sharp2
+build_property.MSBuildProjectDirectory = C:\Users\Dineshcad01\Desktop\CADBATCH\Project\dotnet-m-vc\MVC sharp2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/MVC sharp2/Views/Home/Index.cshtml]
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Cart/Help.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxIZWxwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Cart/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Cart/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/MVC sharp2/Views/Home/Login.cshtml]
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/MVC sharp2/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Home/success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/MVC sharp2/Views/Shared/Error.cshtml]
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Home/Support.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdXBwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/MVC sharp2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/MVC sharp2/Views/_ViewImports.cshtml]
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/MVC sharp2/Views/_ViewStart.cshtml]
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/MVC sharp2/Views/Shared/_Layout.cshtml]
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rd199inleb
+
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Shared/_Layoutcart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRjYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-t155ggkbz4
+
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Shared/_Layoutlogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-ufkj7cwsh0
+
+[C:/Users/Dineshcad01/Desktop/CADBATCH/Project/dotnet-m-vc/MVC sharp2/Views/Shared/_Layoutsupport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRzdXBwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-jcu947mzjg

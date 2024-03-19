@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ooZdUjcn+YFuviQGLPMjExq4UWqU7BSSpy0Rz11IHr0bAv28QC6t+UX/xI0Kgaaxsd84Njj2Af8RlM5n1uX0LQ==",
+  "dgSpecHash": "POxAKcwZUWFqowXzQzF2PaNUxVLLGBJ8fGCfhjPPpD2BlMGdyYzT8IFNjz790kIkbFooRJNqD4i4AY83JYhUzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\MVC sharp2\\MVC sharp2.csproj",
+  "projectFilePath": "C:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC sharp2\\MVC sharp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dineshcad01\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Dineshcad01\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\7.0.4\\microsoft.aspnetcore.mvc.razor.runtimecompilation.7.0.4.nupkg.sha512",
