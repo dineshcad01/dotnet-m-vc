@@ -29,6 +29,15 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult Support()
+    {
+        return View();
+    }
+    public IActionResult Cart()
+    {
+        return View();
+    }
+
 
     void connectionString(){
         con.ConnectionString="data source=192.168.1.240\\SQLEXPRESS; database=cad_os; User Id= CADBATCH01; password=CAD@123pass; TrustServerCertificate=true;";
@@ -44,7 +53,7 @@ public class HomeController : Controller
         dr=com.ExecuteReader();
         if(dr.Read()){
             con.Close();
-        return View("Done");
+        return RedirectToAction("Register", "Login");
         }
         else{
             con.Close();

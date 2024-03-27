@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1sko6rhDWTtCWTlcovtTBfeIHiHRMWkQ5NSuc1mW1gQrRWZtlh503sifBvievLmRC4JeEbkSyjqKSf+tnQBnag==",
+  "dgSpecHash": "7NxuU6UmrZZyhODu8bJ/FrG0kVqMFaVZYz1j6ibxEY+vtPODT/qNLuIzlFf/MaYQWxtslKcuAab9HxKN/ZVtkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\MVC csharp\\MVC csharp.csproj",
+  "projectFilePath": "c:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\MVC csharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dineshcad01\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Dineshcad01\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
