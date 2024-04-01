@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\MVC csharp.csproj": {}
+    "C:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\MVC csharp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\MVC csharp.csproj": {
+    "C:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\MVC csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\MVC csharp.csproj",
+        "projectUniqueName": "C:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\MVC csharp.csproj",
         "projectName": "MVC csharp",
-        "projectPath": "c:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\MVC csharp.csproj",
+        "projectPath": "C:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\MVC csharp.csproj",
         "packagesPath": "C:\\Users\\Dineshcad01\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\obj\\",
+        "outputPath": "C:\\Users\\Dineshcad01\\Desktop\\CADBATCH\\Project\\dotnet-m-vc\\MVC csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dineshcad01\\AppData\\Roaming\\NuGet\\NuGet.Config"
