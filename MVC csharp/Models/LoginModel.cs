@@ -9,8 +9,8 @@ namespace MVC_csharp.Models
 {
     public class LoginModel
     {
-        public string? user_name {get; set;}
+        public string? User_id {get; set;}
 
-        public string? password {get; set;}
+        public string? Password {get; set;}
     }
 }
